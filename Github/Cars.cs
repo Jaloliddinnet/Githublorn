@@ -8,5 +8,7 @@ namespace Github
         public string name { get; set; }
         public string year { get; set; }
         public int price { get; set; }
+
+        public DateTime created { get; set; }
     }
 }
