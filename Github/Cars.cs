@@ -10,5 +10,7 @@ namespace Github
         public int price { get; set; }
 
         public DateTime created { get; set; }
+
+        public string AzizBIK { get; set; }
     }
 }
